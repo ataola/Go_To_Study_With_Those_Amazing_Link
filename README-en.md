@@ -14,8 +14,8 @@ Go To Study With Those Amazing Link，Now
 | MySQL | DB | [here, sir](./mysql-en.md) |
 | TypeScript| LANG | [here, sir](./typescript-en.md) |
 | Undefined | T | [here, sir](./undefined-test-en.md) |
-| Undefined | Server | [这边请，阿Sir](./undefined-os-en.md) |
-| Undefined | One Dragon | [这边请，阿Sir](./undefined-dragon-en.md) |
+| Undefined | Server | [here, sir](./undefined-os-en.md) |
+| Undefined | One Dragon | [here, sir](./undefined-dragon-en.md) |
 
 
 
